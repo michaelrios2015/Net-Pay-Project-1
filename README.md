@@ -11,6 +11,7 @@ The net pay is calculated after taking the following deductions:
 Federal income tax  = 15%      State income tax    =  5%      Social security tax =  5%      Medicare/Medicaid   =  3%      Pension plan        =  8%      Health insurance    = $125.00  
 
 Your program should ask the user to input the employee ID,  and the earnings (gross amount) for current month. The output should be the net pay, after deductions. Format the output to have 2 decimal places.  
+
 Sample output: 
 Employee ID:                     12345  
 --------------------------------------  
