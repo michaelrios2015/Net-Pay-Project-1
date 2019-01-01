@@ -8,7 +8,12 @@ Make sure that you document the programs (add comments!) and use proper style (i
  
 Write a C++ program that calculates and prints the monthly paycheck for an employee. 
 The net pay is calculated after taking the following deductions:      
-Federal income tax  = 15%      State income tax    =  5%      Social security tax =  5%      Medicare/Medicaid   =  3%      Pension plan        =  8%      Health insurance    = $125.00  
+Federal income tax  = 15%      
+State income tax    =  5%      
+Social security tax =  5%      
+Medicare/Medicaid   =  3%      
+Pension plan        =  8%      
+Health insurance    = $125.00  
 
 Your program should ask the user to input the employee ID,  and the earnings (gross amount) for current month. The output should be the net pay, after deductions. Format the output to have 2 decimal places.  
 
@@ -28,4 +33,4 @@ NET PAY                       $2755.00
 NOTE: Use setw( ) to get the tabular alignment.  
 
 
-
+It's pretty basic just wanted to get us used to what computers can do and the like :)
