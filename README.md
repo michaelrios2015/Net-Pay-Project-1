@@ -14,7 +14,7 @@ Your program should ask the user to input the employee ID,  and the earnings (gr
 
 Sample output: 
 Employee ID:                     12345  
---------------------------------------  
+
 EARNINGS                      $4500.00  
 Federal Tax                     675.00  
 State Tax                       225.00  
@@ -22,7 +22,7 @@ Social Security                 225.00
 Medicare/Medicaid               135.00  
 Pension Plan                    360.00  
 Health Insurance                125.00  
---------------------------------------  
+  
 NET PAY                       $2755.00  
 
 NOTE: Use setw( ) to get the tabular alignment.  
