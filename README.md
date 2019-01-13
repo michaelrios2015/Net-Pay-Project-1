@@ -1,13 +1,15 @@
 # Net-Pay-Project-1
 
-This is the assignment the project was created for 
+**COSC 501/AIT 500 at Towson University**
 
-COSC 501/AIT 500 Project  1                              Due:  Sept  23, 2013 
+This is the assignment the project was created for: 
  
 Make sure that you document the programs (add comments!) and use proper style (indent!) Read the guideline posted on our class website.  
  
-Write a C++ program that calculates and prints the monthly paycheck for an employee. 
+Write a C++ program that calculates and prints the monthly paycheck for an employee. \
+
 The net pay is calculated after taking the following deductions:      
+
 Federal income tax  = 15%      
 State income tax    =  5%      
 Social security tax =  5%      
@@ -33,4 +35,4 @@ NET PAY                       $2755.00
 NOTE: Use setw( ) to get the tabular alignment.  
 
 
-It's pretty basic just wanted to get us used to what computers can do and the like :)
+It's a fairly basic assignement designed to get us used to what computers can do and the like :)
