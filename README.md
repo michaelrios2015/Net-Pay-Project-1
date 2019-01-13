@@ -1,6 +1,6 @@
 # Net-Pay-Project-1
 
-**COSC 501/AIT 500 at Towson University**
+**COSC 501 at Towson University**
 
 This is the assignment the project was created for: 
  
